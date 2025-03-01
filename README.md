@@ -34,8 +34,6 @@ The log files are stored in the `./log_cn` and `./log_en` folders. The log files
 * `evaluation.xlsx`: The log file contains the evaluation results of the generated responses.
 
 
-```
-
 
 
 # 🎭 Murder Mystery Game Rules & Procedure
